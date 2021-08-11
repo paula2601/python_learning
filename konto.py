@@ -1,0 +1,5 @@
+stan_konta = int(input("Ile pieniedzy masz obecnie na koncie?\n"))
+oprocentowanie = float(input("Ile wynosi roczne oprocentowanie w %?\n"))
+lata = int(input("Ile lat trzymasz te pieniadze na koncie?\n"))
+wynik = stan_konta + (stan_konta * oprocentowanie/100 * lata)
+print("Twoj stan poczatkowy konta {} przez czas {} lata na lokacie {}% urosnie do {:.0f}" .format(stan_konta,lata, oprocentowanie, wynik))
