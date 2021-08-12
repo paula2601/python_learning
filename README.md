@@ -1,5 +1,5 @@
 # python_learning
-Python learning from 0 
+Python learning from 0 \n
 Hello,
 
 My name is Paula Szałata and I have started learning python on 1.08.2021.
