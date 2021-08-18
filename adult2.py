@@ -1,5 +1,5 @@
-age = int(input("Ile masz lat?"))
-responsible = input("Czy jestes odpowiedzialny? T/N")
+age = int(input("Ile masz lat?\n"))
+responsible = input("Czy jestes odpowiedzialny? T/N\n")
 
 if age > 100:
     print("To naprawde twoj wiek?")
